@@ -163,5 +163,13 @@
       "categoryId": 4,
       "price": 5.49
     }
+  ],
+  "stocks" :[ {
+      "name": "Test1 stock",
+      "description" : "desc test1"
+    }, {
+      "name": "Test2 stock",
+      "description" : "desc test2"
+    }       
   ]
 }
